@@ -1,0 +1,22 @@
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\bin\Debug\MyRevitPlugin.dll
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\bin\Debug\MyRevitPlugin.pdb
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.csproj.AssemblyReference.cache
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.csproj.CoreCompileInputs.cache
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.dll
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.pdb
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\SimpleForm.g.cs
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin_MarkupCompile.cache
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin_MarkupCompile.lref
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\SimpleForm.baml
+C:\Users\gfhap\Desktop\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.g.resources
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.csproj.AssemblyReference.cache
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\SimpleForm.g.cs
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin_MarkupCompile.cache
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin_MarkupCompile.lref
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.dll
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.pdb
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\bin\Debug\MyRevitPlugin.dll
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\bin\Debug\MyRevitPlugin.pdb
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\SimpleForm.baml
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.g.resources
+E:\Revit Addins test\RevitTest\MyRevitPlugin\MyRevitPlugin\obj\Debug\MyRevitPlugin.csproj.CoreCompileInputs.cache
