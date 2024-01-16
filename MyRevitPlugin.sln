@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRevitPlugin", "MyRevitPlugin\MyRevitPlugin.csproj", "{84BC849D-9A24-42E9-871A-E101B6B5EAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionFilter", "SelectionFilter\SelectionFilter.csproj", "{73933B21-0A80-4542-8860-8920D58FD583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorsAndPointsNew", "VectorsAndPointsNew\VectorsAndPointsNew.csproj", "{0E6F85E8-C50C-4A40-9234-DE6AAEA34CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84BC849D-9A24-42E9-871A-E101B6B5EAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BC849D-9A24-42E9-871A-E101B6B5EAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BC849D-9A24-42E9-871A-E101B6B5EAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BC849D-9A24-42E9-871A-E101B6B5EAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73933B21-0A80-4542-8860-8920D58FD583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73933B21-0A80-4542-8860-8920D58FD583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73933B21-0A80-4542-8860-8920D58FD583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73933B21-0A80-4542-8860-8920D58FD583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6F85E8-C50C-4A40-9234-DE6AAEA34CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6F85E8-C50C-4A40-9234-DE6AAEA34CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6F85E8-C50C-4A40-9234-DE6AAEA34CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6F85E8-C50C-4A40-9234-DE6AAEA34CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DA908BA-48EC-4B7A-99A9-05B08DB7BFD5}
+	EndGlobalSection
+EndGlobal
